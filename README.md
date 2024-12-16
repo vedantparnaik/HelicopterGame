@@ -3,7 +3,7 @@
 This project focuses on recognizing American Sign Language (ASL) fingerspelling using deep learning models. The goal is to accurately classify ASL gestures, leveraging a combination of CNNs and Transformer models. The project achieved a top 10% ranking on the Kaggle leaderboard.  
  
 ## Overview 
- 
+  
 Helicopter Game is a simple yet engaging game built using Python and Pygame. In this game, players control a helicopter, avoiding obstacles to achieve a high score. It features background music, collision sounds, and a user-friendly menu system for starting, resuming, and exiting the game.
      
 ## Features      
